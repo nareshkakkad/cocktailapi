@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/shopdemo/static/css/main.3bea291b.css",
-    "main.js": "/shopdemo/static/js/main.ed099586.js",
-    "index.html": "/shopdemo/index.html",
-    "main.3bea291b.css.map": "/shopdemo/static/css/main.3bea291b.css.map",
-    "main.ed099586.js.map": "/shopdemo/static/js/main.ed099586.js.map"
+    "main.css": "/cocktailapi/static/css/main.3bea291b.css",
+    "main.js": "/cocktailapi/static/js/main.ed099586.js",
+    "index.html": "/cocktailapi/index.html",
+    "main.3bea291b.css.map": "/cocktailapi/static/css/main.3bea291b.css.map",
+    "main.ed099586.js.map": "/cocktailapi/static/js/main.ed099586.js.map"
   },
   "entrypoints": [
     "static/css/main.3bea291b.css",
